@@ -16,7 +16,7 @@ export const ContactSection: React.FC = () => {
     setFormStatus('idle');
 
     try {
-      const response = await fetch('https://formsubmit.co/ajax/dcasado_75@hotmail.com', {
+      const response = await fetch('https://formsubmit.co/ajax/dcasadointeriores@gmail.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
